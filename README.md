@@ -8,3 +8,5 @@ The chaos2 script fullfill the following:
 5.The script gives the user the time of how long time it take 
 6.The script failed , for instance if the Number of instances were more than 6 ( the system design to accept 6 as min and maximum ), the script will wait for 10 min and the No. of instances will not be able to reach to that amount so it will fail 
 
+The link for Video https://youtu.be/hMJAgT2h3kA  
+
